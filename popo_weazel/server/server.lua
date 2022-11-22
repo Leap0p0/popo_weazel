@@ -138,4 +138,4 @@ AddEventHandler("p0p0_weazel:rdv", function(nomprenom, numero, rdvmotif)
 end)
 
 --Webhook pour l'accueil
-ConfigWebhookRendezVous = "https://discord.com/api/webhooks/998598254956646462/wnQ8SkJQ7yhYIqohPb0FnqllBAcfXRwe2cKvmIjYeKkwfw6B7FLGwhGfGedvbJyhuLhB"
+ConfigWebhookRendezVous = "WEBHOOK URL"
