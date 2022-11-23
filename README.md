@@ -43,7 +43,8 @@ Features :
 * Appointment request sent on Discord via Webhook
 * Car garage
 * Mapping included!
-* Vehicle included!
+* Vehicle included
+* Objects pack included!
 * Language (FR/EN)
 
 ## Requirements
